@@ -12,11 +12,3 @@ Import HospitalSystem(DML).sql and execute the script to add mock data
 Import HospitalSystem(Programmability).sql and execute the script to create Stored Procedures and Views.
 
 
-Team 4:
-1. Sarvesh Santosh Sawant
-2. Sai Krishna Kotla
-3. Hitech Reddy Cherukupally
-4. Nihal Gajbhiye
-5. Ruchita Yarlagadda
-6. Zheng Zhang
-
