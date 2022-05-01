@@ -8,7 +8,7 @@ Project Statement:
 The key agenda of any project to identify the problem and provide a solution using structured project work.
 
 Manual record management system operations are both operationally and financially costly when it comes to managing client records:
-•	The manual record management system cannot give us a proper understanding of the healthcare service consumer base.
+•	The manual record management system cannot give us a proper understanding of the healthcare service consumer base. 
 •	Data and information are not adequately protected.
 •	There is a possibility that the patient data and information may be exposed for unauthorized modifications.
 •	Maintaining a manual record-keeping system might be too onerous.
